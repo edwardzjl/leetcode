@@ -39,6 +39,8 @@ class Solution {
             rsb.append(sbs.get(i));
         }
         return rsb.toString();
+        
     }
 }
 // @lc code=end
+
